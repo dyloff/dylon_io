@@ -96,7 +96,7 @@ ul {
 }
 
 a {
-  list-style-type: none;
+  text-decoration: none;
 }
 
 button {
@@ -114,12 +114,12 @@ img {
   padding: 6rem 0 2rem;
 }
 
-.section_title {
+.section__title {
   font-size: var(--h1-font-size);
   color: var(--title-color);
 }
 
-.section_subtitle {
+.section__subtitle {
   display: block;
   font-size: var(--small-font-size);
   margin-bottom: 4rem;
@@ -154,7 +154,7 @@ img {
   background-color: var(--title-color-dark);
 }
 
-.button_icon {
+.button__icon {
   margin-left: var(--mb-0-5);
 }
 
@@ -168,6 +168,10 @@ img {
 
 /* Large device */
 @media screen and (max-width: 992px) {
+  .container {
+    margin-left: var(--mb-1-5);
+    margin-right: var(--mb-1-5);
+  }
 }
 
 /* Medium device */
@@ -179,4 +183,8 @@ img {
 
 /* Small device */
 @media screen and (max-width: 350px) {
+  .container {
+    margin-left: var(--mb-1-);
+    margin-right: var(--mb-1);
+  }
 }
