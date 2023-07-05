@@ -175,11 +175,16 @@
     width: 200px;
     height: 200px;
   }
-}
 
-@media screen and (max-width: 576px) {
+  .home__scroll {
+    display: none;
+  }
 }
 
 /* Small device */
 @media screen and (max-width: 350px) {
+  .home__img {
+    width: 180px;
+    height: 180px;
+  }
 }
