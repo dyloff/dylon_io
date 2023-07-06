@@ -148,6 +148,7 @@ img {
   padding: 1.25rem 2rem;
   border-radius: 1rem;
   font-weight: var(--font-medium);
+  margin-top: 10px;
 }
 
 .button:hover {
@@ -174,6 +175,7 @@ img {
   }
   .button {
     padding: 1rem 1.75rem;
+    margin-top: 25px;
   }
 
   .button__icon {
@@ -184,8 +186,15 @@ img {
 
 /* Medium device */
 @media screen and (max-width: 768px) {
+  body {
+    margin: 0 0 var(--header-height) 0;
+  }
   .section {
     padding: 2rem 0 4rem;
+  }
+
+  .section__subtitle {
+    margin-bottom: var(--mb-3);
   }
 }
 
