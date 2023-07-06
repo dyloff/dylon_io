@@ -17,7 +17,7 @@ const About = () => {
           <Info />
 
           <p className="about_description">
-          Former investment banking analyst that worked in Tech investment coverage. I bring strong technical problem-solving skills and thrive under pressure to meet internal and client deadlines. Currently seeking openings within FinTech companies and seeking freelancing opportunities for client projects.
+          Former investment banking analyst that worked in Tech coverage. I bring strong technical problem-solving skills and thrive under pressure to meet deadlines. Open to Full-Stack, Front/Back End roles and seeking freelancing opportunities for client projects in the meantime.
           </p>
 
           <a download="" href={CV} className="button
