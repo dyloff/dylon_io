@@ -56,7 +56,8 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">Full Stack Developer</h3>
       <p className="home__description">
-        I'm a software engineer based in London. Ex M&A Finance Analyst making the tranistion to Tech!
+        I'm a software engineer based in London. Committed to lifelong learning, I am eager to leverage my past in Finance and pivot into the dynamic Tech sector as a Full-Stack Developer.
+
       </p>
 
       <a href="#contact" className="button button--flex">
