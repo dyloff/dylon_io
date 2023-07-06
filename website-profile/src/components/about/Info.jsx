@@ -22,7 +22,7 @@ const info = () => {
          <i class='bx bx-bowl-hot about__icon'></i>
 
         <h3 className="about__title">Main Stack</h3>
-        <span className="about__subtitle">Rails, JS, SCSS, PostgreSQL</span>
+        <span className="about__subtitle">Ruby, Rails, JS, CSS, PostgreSQL</span>
       </div>
 
     </div>
