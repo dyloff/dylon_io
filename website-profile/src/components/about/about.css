@@ -1,3 +1,4 @@
+
 .about__container {
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
@@ -46,6 +47,7 @@
 
 /* Large device */
 @media screen and (max-width: 992px) {
+
   .about__container {
     grid-template-columns: 1fr;
     row-gap: 2.5rem;

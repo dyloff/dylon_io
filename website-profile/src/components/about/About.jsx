@@ -14,7 +14,7 @@ const About = () => {
         <img src={AboutImg} alt="" className="about__img" />
 
         <div className="about__data">
-          <Info />
+         <Info />
 
           <p className="about_description">
           Former investment banking analyst that worked in Tech coverage. I bring strong technical problem-solving skills and thrive under pressure to meet deadlines. Open to Full-Stack, Front/Back End roles and seeking freelancing opportunities for client projects in the meantime.
