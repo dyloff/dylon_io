@@ -61,7 +61,7 @@
 }
 
 .qualification__calendar {
-  font-size: var(--small-font-size)
+  font-size: var(--small-font-size);
 }
 
 .qualification__rounder {
@@ -79,7 +79,6 @@
   background-color: var(--text-color);
   transform: translate(6px, -7px);
 }
-
 
 /* Large device */
 @media screen and (max-width: 992px) {
@@ -112,5 +111,4 @@
   .qualificaton__data {
     gap: 0.5rem;
   }
-
 }
