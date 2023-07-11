@@ -47,7 +47,11 @@
 
 .active-link,
 .nav__link:hover {
-  color: var(--title-color-dark);
+  color: blueviolet;
+}
+
+.scroll-header {
+  box-shadow: 0 -1px 4px rgba(0, 0, 0, 0,15);
 }
 
 /* Medium device */

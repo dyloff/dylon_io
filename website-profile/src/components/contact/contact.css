@@ -1,3 +1,4 @@
+
 .contact__container {
   grid-template-columns: repeat(2, max-content);
   justify-content: center;
@@ -59,6 +60,7 @@
 .contact__button-icon {
   font-size: 1rem;
   transition: 0.3s;
+  color: rgb(129, 7, 244);
 }
 
 .contact__button:hover .contact__button-icon {
